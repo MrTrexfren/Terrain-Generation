@@ -1,4 +1,4 @@
 # Terrain-Generation
 Green = land
 blue = water
-Downloadable file can be found here
+Downloadable exe file can be found here
